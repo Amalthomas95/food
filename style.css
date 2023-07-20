@@ -1,0 +1,87 @@
+header{
+    background-color: orange;
+color:black;
+height: 100px;
+text-align:left;
+display: flex;
+}
+nav{
+    display: flex;
+}
+
+nav ul{
+    display: flex;
+    justify-content: space-around;   
+}
+nav ul li{
+    display: flex;
+    padding-left: 170px; 
+    padding-top: 25px; 
+    text-decoration: solid;
+    text-decoration-line: none;
+}
+nav ul li a{
+    color:black;
+    text-decoration-line: none;
+}
+.row{
+    width: 100%;
+    padding-top: 100px;
+    height: 500px;
+    display: flex;
+    justify-content: space-around;
+    background-image:url(https://wallpapers.com/images/hd/food-4k-m37wpodzrcbv5gvw.jpg) ; width: 100%;
+}
+.col1{
+    background-color:orange;
+    height: 475px;
+    border-radius: 25px;
+    
+}
+.col2{
+    background-color:orange;
+    height: 475px;
+    border-radius: 25px;
+}
+.col3{
+    background-color:orange;
+    height: 475px;
+    border-radius: 25px;
+}
+.col4{
+    background-color:orange;
+    height: 475px;
+    border-radius: 25px;
+}
+h3{
+    background-color:black;
+    color: white;
+}
+.row2{
+    width: 100%;
+    padding-top: 100px;
+    height: 400px;
+    display: flex;
+    justify-content: space-around;
+    background-image:url(https://f.roocdn.com/images/menus/379186/header-image.jpg?width=1200&height=630&auto=webp&format=jpg&fit=crop&v=1602440505) ; width: 100%;
+}
+.col5{
+    background-color:orange;
+    height: 300px;
+}
+.col6{
+    background-color:orange;
+    height: 300px;
+}
+
+footer{
+    background-color: orange;
+    height: 25px;
+    padding-top: 12px;
+    justify-content: space-between;
+    text-align: center;
+}
+h4{
+    background-color: black;
+    color: white;
+}
